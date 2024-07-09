@@ -1,0 +1,1 @@
+SIDEBAR_OPTIONS = ['opt1', 'opt2']
